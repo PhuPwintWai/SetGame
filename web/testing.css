@@ -1,0 +1,32 @@
+.ui-btn{
+	width: 300px !important;
+}
+
+.ui-input-text { 
+	width: 300px !important 
+}
+body{
+    background-image: url(img/backgroundblack.jpg) !important
+       
+}
+.thumbnail{
+    background-color: transparent;
+    border: 0px;
+}
+
+input[type="radio"], input[type="checkbox"]{
+    margin-left: 42px;
+}
+.img-responsive{
+    border-radius: 10px;
+}
+#gameBoard>tbody>tr>td>img {
+    width: 130px;
+    /* height: 130px; */
+    vertical-align: middle;
+    margin: 25px;
+    border-radius: 10px;
+}
+.container text-center{
+    
+}
